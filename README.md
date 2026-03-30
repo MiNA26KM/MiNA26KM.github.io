@@ -16,20 +16,4 @@ Głównym celem jest:
 3. Publikacja dokumentacji technicznej przez **GitHub Pages**.
 
 ---
-
-## 🛠 Tech Stack
-| Narzędzie | Funkcja |
-| :--- | :--- |
-| 🐙 **GitHub** | Repozytorium kodu i dokumentacji |
-| 🛡️ **Jira Cloud** | Zarządzanie projektami (Scrum/Kanban) |
-| 💬 **MS Teams** | Centrum komunikacji i powiadomień |
-| 📑 **AsciiDoc** | Zaawansowana dokumentacja techniczna |
-
----
-
-## 🌐 Podgląd na żywo
-Strona projektu dostępna jest pod adresem:
-👉 [**Kliknij tutaj, aby zobaczyć GitHub Pages**](https://mina26km.github.io/agh-wfiis-edu/)
-
----
 _Ostatnia aktualizacja: 2026-03-30_
